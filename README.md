@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3struc2red&layout=compact&langs_count=7&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secthum-labs&layout=compact&langs_count=7&theme=blue-green)
 
 ---
 
