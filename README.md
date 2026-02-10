@@ -6,7 +6,7 @@
 - 🧠 Objetivo: alcançar nível **OSCP / Pentest Web & Infra**  
 - 🐧 Ambiente principal: **Linux**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=D3struc2red)
+![Profile Views](https://komarev.com/ghpvc/?username=secthum-lab)
 
 ---
 
